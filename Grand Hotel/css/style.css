@@ -10,3 +10,22 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 /* end of common styles */
+
+/* navbar */
+/* sidebar */
+.sidebar {
+  width: 8rem;
+  height: 100%;
+  background-color: #eee;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-icon {
+
+}
+/* end of sidebar */
+/* end of navabar */
