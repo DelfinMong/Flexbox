@@ -268,6 +268,7 @@ body {
   border: none;
   border-radius: 10rem;
   outline: none;
+  background: linear-gradient(to right,gold,goldenrod);
   cursor: pointer;
   animation: anim 1s 1s backwards;
 }
