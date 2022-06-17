@@ -552,12 +552,17 @@ body {
 .customer-fullname {
   font-size: 2rem;
   font-weight: 300;
-  margin-top: 0;
+  margin-bottom: 0;
 }
 
-.customers-paragraph {
+.customer-paragraph-1 {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #b85d1c;
+}
+
+.customer-paragraph-2 {
   font-size: 1.3rem;
   font-style: italic;
 }
-
 /* end of customers */
